@@ -9,31 +9,31 @@
 
 :root {
   --main-font: 'Inter', sans-serif;
-  --main-color: #070707;
-  --background-color: #646060;
-  --white-color: #FFFFFF;
-  --black-color: #000000;
-  --description-color: #D2D0D0;
+  --main-color: #fca311; /* Accent color */
+  --background-color: #000000; /* Black */
+  --white-color: #ffffff; /* White */
+  --black-color: #000000; /* Black */
+  --description-color: #e5e5e5; /* Light gray */
 
-  --green-color: #4AFF6B;
-  --ip-copied-background: rgba(74, 255, 107, 0.17);
-  --ip-copied-icon-background: rgba(74, 255, 107, 0.5);
+  --green-color: #fca311; /* Adjusted to match palette */
+  --ip-copied-background: rgba(252, 163, 17, 0.5); /* Adjusted for transparency */
+  --ip-copied-icon-background: rgba(20, 33, 61, 0.5);
 
-  --copy-ip-button-background: rgba(57, 190, 255, 0.7);
-  --how-to-join-button-background: rgba(210, 208, 208, 0.2);
-  --stats-background: rgba(210, 208, 208, 0.05);
-  --stat-icon-background-2: rgba(57, 190, 255, 0.5);
+  --copy-ip-button-background: rgba(20, 33, 61, 0.7);
+  --how-to-join-button-background: rgba(229, 229, 229, 0.2);
+  --stats-background: rgba(229, 229, 229, 0.05);
+  --stat-icon-background-2: rgba(252, 163, 17, 0.5);
 
-  --scroll-bar: rgba(210, 208, 208, 0.3);
-  --scroll-bar-hover: #555555FF;
+  --scroll-bar: rgba(229, 229, 229, 0.3);
+  --scroll-bar-hover: #14213d;
 
-  --red-color: #FF7C7C;
-  --warning-background: rgba(255, 124, 124, 0.17);
-  --warning-icon-background: rgba(255, 124, 124, 0.5);
-  --warning-color: #F5C1C1;
+  --red-color: #fca311; /* Adjusted to match palette */
+  --warning-background: rgba(252, 163, 17, 0.17);
+  --warning-icon-background: rgba(252, 163, 17, 0.5);
+  --warning-color: #e5e5e5;
 
-  /*Admin-Team rank colors*/
-  --default-rank-color: rgba(210, 208, 208, 0.3);
+  /* Admin-Team rank colors */
+  --default-rank-color: rgba(229, 229, 229, 0.3);
 }
 
 body {
