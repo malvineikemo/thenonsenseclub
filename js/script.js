@@ -46,7 +46,7 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "Astronavta",
+                inGameName: "malvineikemo",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
@@ -181,7 +181,7 @@ const config = {
     Emails are sent via https://formsubmit.co/
     */
     contactPage: {
-        email: "astronavta@example.com"
+        email: "contact@thenonsenseclub.xyz"
     }
 }
 
