@@ -1,7 +1,7 @@
 /*
 Configuration
 ------------------------
-If something doesn't work please contact me on discord (Astronawta#0012).
+If something doesn't work please contact me on discord (malvineikemo).
 */
 
 const config = {
@@ -17,7 +17,7 @@ const config = {
     If you want to create new group, you must add this structure to adminTeamPage:
     <nameOfGroup>: [
         {
-            inGameName: "Astronavta",
+            inGameName: "malvineikemo",
             rank: "Owner",
             skinUrlOrPathToFile: "",
             rankColor: ""
@@ -28,7 +28,7 @@ const config = {
 
     All skins for original players are generate automaticaly. If you want to add skins to warez players, yout must add url for skin to skinUrlOrPathToFile
         {
-            inGameName: "Astronavta",  <--- In-Game name
+            inGameName: "malvineikemo",  <--- In-Game name
             rank: "Owner",  <-- rank
             skinUrlOrPathToFile: "",  <-- url or file path for skin image for warez players (if you have original minecraft leave it be empty)
             rankColor: "rgba(255, 3, 3, 1)"  <-- special rank color
