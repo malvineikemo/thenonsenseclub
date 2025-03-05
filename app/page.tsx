@@ -18,7 +18,7 @@ export default function MinecraftServer() {
           size="lg"
           className="bg-gray-800 hover:bg-gray-700 text-white px-8 py-6 text-lg rounded-md flex items-center gap-2"
         >
-          <Link href="https://discord.gg/your-discord-link" target="_blank" rel="noopener noreferrer">
+          <Link href="https://discord.gg/PrA99U99Gn" target="_blank" rel="noopener noreferrer">
             <Discord className="w-6 h-6" />
             Join our Discord
           </Link>
@@ -27,7 +27,7 @@ export default function MinecraftServer() {
 
       {/* Footer */}
       <div className="w-full text-center py-4 text-gray-400 text-sm">
-        Eikemo Developments, all rights reserved. Copyright © {new Date().getFullYear()}
+        © {new Date().getFullYear()} Eikemo Developments. All rights reserved. 
       </div>
     </div>
   )
